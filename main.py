@@ -1,0 +1,8 @@
+"""
+Точка входа в приложение "Свод решений".
+"""
+
+from ui.main_window import run
+
+if __name__ == "__main__":
+    run()
